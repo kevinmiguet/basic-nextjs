@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "League Spartan";
+  font-weight: 600;
+  src: url("./fonts/leaguespartan-bold.woff") format("woff");
+}
+.font-spartan {
+  font-family: var(--font-spartan);
+}

@@ -1,0 +1,7 @@
+@tailwind base;
+@import "./base.css";
+@import "./fonts.css";
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+@tailwind components;
+
+@tailwind utilities;
